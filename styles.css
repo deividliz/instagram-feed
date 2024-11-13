@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: lightgrey;
+    margin:0 ;
+    
+}
+header{ 
+   background-color: white;
+    padding: 10px;
+}
+header h1 {
+    
+    margin: 0;  
+}
+div.post{
+    background-color: white;
+    margin-top: 20px;
+}
+div.post h2, div.post p{
+    padding: 15px;
+}
+div.arriba{
+    display: flex;
+    
+}
+div.post h2{
+    
+    width: 80%;
+    
+}
+div.post span{
+    
+    width:20%;
+    padding-top: 40px;
+    padding-right: 10px;
+    text-align: right;
+    color: grey;
+
+}
+div.post img {
+    width: 100%;
+}
+div.container{width: 600px;
+margin:auto;
+}
+
